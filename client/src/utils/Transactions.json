@@ -121,7 +121,7 @@
     },
     {
       "inputs": [],
-      "name": "getTransactionsCount",
+      "name": "getTransactionCount",
       "outputs": [
         {
           "internalType": "uint256",
